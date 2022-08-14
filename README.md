@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Yuda 👋
+
+<p align="left">
+<a href="https://github.com/YudaWahfiudin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YudaWahfiudin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YudaWahfiudin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 
 <!--
 **YudaWahfiudin/YudaWahfiudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
